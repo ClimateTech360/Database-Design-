@@ -1,3 +1,4 @@
+![ShopTrend](https://github.com/user-attachments/assets/98333b37-43d6-4daf-a2c8-0a89f1e11bd6)
 TrendShop SQL Database
 Overview
 TrendShop.sql is a comprehensive SQL script for setting up the backend database of TrendShop, an e-commerce platform designed to handle modern fashion retail operations. The script includes the creation of essential tables for managing brands, products, categories, inventory, product attributes, and variations like color and size. It also contains dummy data for initial testing and development purposes.
